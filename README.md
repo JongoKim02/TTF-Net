@@ -1,10 +1,6 @@
 # Tri-plane Text Fusion Network for Segmentation of Kidney Calculi in Veterinary CT Images (TTF-Net)
 This repository provides the implementation of TTF-Net and the JBNU-VetCT dataset to reproduce the segmentation results of kidney, kidney stone, and renal pelvis from veterinary CT images.
 
-## Update
-
-### 🚀 Work in Progress
-
 
 *Overview of the TTF-Net architecture.*  
 ![Fig 1 v14](https://github.com/user-attachments/assets/186c49aa-44b6-4028-9b21-8c4bdb6e77f1)  
