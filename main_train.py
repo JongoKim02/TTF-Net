@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# BSD 3-Clause License
+# Copyright (c) 2025, System Level Design Group
 """
 Created on Sat June  21 11:06:19 2025
 
