@@ -35,6 +35,5 @@ We thank the authors for open sourcing their implementation.
 ## Citations
 
 ``` 
-@inproceedings{
-}
+@inproceedings{ TBD }
 ```
